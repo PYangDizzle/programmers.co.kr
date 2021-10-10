@@ -1,2 +1,2 @@
 # programmers.co.kr
- Questions, answers, and explanations of programmers.co.kr's problems
+ 프로그래머스의 문제, 정답, 설명 등등
